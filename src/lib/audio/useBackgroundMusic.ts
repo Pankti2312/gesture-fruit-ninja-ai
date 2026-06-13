@@ -4,7 +4,7 @@ import {
   getAudioSettings,
   subscribeAudioSettings,
 } from "./audioSettings";
-import gameplayMusicAsset from "@/assets/audio/mixkit-owies-ukulele-1072.mp3.asset.json";
+import menuMusic from "@/assets/audio/mixkit-owies-ukulele-1072.mp3";
 
 type Variant = "home" | "play";
 
